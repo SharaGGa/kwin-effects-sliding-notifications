@@ -45,7 +45,7 @@ After you installed all the required dependencies, you can build
 the effect:
 
 ```sh
-git clone https://github.com/zzag/kwin-effects-sliding-notifications.git
+git clone https://github.com/SharaGGa/kwin-effects-sliding-notifications.git
 cd kwin-effects-sliding-notifications
 mkdir build && cd build
 cmake .. \
